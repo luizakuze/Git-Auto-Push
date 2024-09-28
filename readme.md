@@ -1,4 +1,4 @@
-# Git Push Auto 🦥
+# Git Auto Push 🦥
 
 ## Feeling too lazy to write pretty commit messages for your project? 🦥🦥🦥 Want to just run a quick `git add .`, `git commit`, and `git push` with a default message? This script is here to help!
 
